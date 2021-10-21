@@ -8,7 +8,7 @@ https://cognitiveclass.ai/courses/python-for-data-science
 
 Una vez completado, podrá escribir sus propios scripts de Python y realizar análisis de datos prácticos básicos utilizando nuestro entorno de laboratorio basado en Jupyter. Si quieres aprender Python desde cero, este curso gratuito es para ti.
 
-##El contenido de este curso:
+## El contenido de este curso:
 
 
 
